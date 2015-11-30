@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Shashank\'s App Portfolio</string>
+    <string name="action_settings">Settings</string>
+    <string name="AppTitle">Shashank\'s App Portfolio</string>
+    <string name="NANODEGREE_APPS_STRING">My Nanodegree Apps !!</string>
+    <string name="SPOTIFY_STREAMER_APP">Spotify Streamer</string>
+    <string name="FOOTBALL_SCORES_APP">Football Scores App</string>
+    <string name="LIBRARY_APP">Library App</string>
+    <string name="BUILD_IT_BIGGER">Build It Bigger</string>
+    <string name="XYZ_Reader_APP">XYZ Reader</string>
+    <string name="CAPSTONE_APP">CAPSTONE\nMY OWN APP</string>
+    <string name="LAUNCH_TOAST_STRING">This will launch the</string>
+    <string name="APPLICATION">app</string>
+</resources>
